@@ -1,0 +1,32 @@
+[
+  {
+    "Numero de orden": 123456,
+    "Codigo de articulo": 5678,
+    "Descripcion de articulo": "BOTANA 45 G",
+    "Texto breve personalizado de detalle 5": "PK",
+    "Cantidad de orden original": 4,
+    "Cantidad solicitada": 4,
+    "Cantidad asignada": 0,
+    "Cantidad empaquetada": 0,
+    "Estado de orden": "Creada",
+    "Instalacion de destino de envio": "",
+    "Tipo de orden": "VENTA",
+    "Orden de compra de cliente": 11250042197,
+    "Instalacion": "DRB"
+  },
+  {
+    "Numero de orden": 123457,
+    "Codigo de articulo": 5678,
+    "Descripcion de articulo": "BOTANA 45 G",
+    "Texto breve personalizado de detalle 5": "FP",
+    "Cantidad de orden original": 3360,
+    "Cantidad solicitada": 3360,
+    "Cantidad asignada": 0,
+    "Cantidad empaquetada": 0,
+    "Estado de orden": "Creada",
+    "Instalacion de destino de envio": "",
+    "Tipo de orden": "VENTA",
+    "Orden de compra de cliente": 11250042195,
+    "Instalacion": "DRB"
+  }
+]
